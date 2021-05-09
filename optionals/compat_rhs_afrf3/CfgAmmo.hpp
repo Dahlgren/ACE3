@@ -1,7 +1,6 @@
 class CfgAmmo {
     class BulletBase;
-    class B_556x45_Ball;
-    class rhs_B_545x39_Ball: B_556x45_Ball {
+    class rhs_B_545x39_Ball
         ACE_caliber=5.588;
         ACE_bulletLength=21.59;
         ACE_bulletMass=3.42792;
