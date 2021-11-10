@@ -1,6 +1,5 @@
 
 class CfgWeapons {
-    class ItemCore;
     class InventoryOpticsItem_Base_F;
 
     class RKSL_optic_PMII_312: ItemCore { // https://www.schmidtundbender.de/en/products/police-military-forces/3-12x50-pm-ii.html
